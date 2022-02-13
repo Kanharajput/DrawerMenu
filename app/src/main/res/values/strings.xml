@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrawerMenu</string>
+    <string name="home_drawer_item">Home</string>
+    <string name="setting_drawer_item">Settings</string>
+    <string name="share_drawer_item">Share</string>
+    <string name="drawer_title">Drawer Header</string>
+    <string name="favorite_title">favorite</string>
+</resources>
