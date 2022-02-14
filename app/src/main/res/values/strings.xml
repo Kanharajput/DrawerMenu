@@ -5,4 +5,8 @@
     <string name="share_drawer_item">Share</string>
     <string name="drawer_title">Drawer Header</string>
     <string name="favorite_title">favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="share_fragment">share fragment</string>
+    <string name="home_fragment">home fragment</string>
+    <string name="setting_fragment">setting fragment</string>
 </resources>
